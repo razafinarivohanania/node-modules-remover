@@ -11,3 +11,9 @@ Create `configuration.json` file with field `directory` like :
   "directory": "your/base/path"
 }
 ```
+
+Then run :
+
+```sh
+node index
+```
